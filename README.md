@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
+<h1 style="color: green" align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">which means Dev Mode is constantly focused on</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakcaltun&label=Profile%20views&color=0e75b6&style=flat" alt="burakcaltun" /> </p>
