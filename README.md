@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakcaltun" alt="burakcaltun" /></a> </p>
 
-- 🔭 I’m currently working on Mean-Stack Developement [Mean-Stack-Website](https://github.com/burakcaltun/Mean-Stack-Website.git)
+- ⭐ I’m currently working on Mean-Stack Developement [Mean-Stack-Website](https://github.com/burakcaltun/Mean-Stack-Website.git)
 
-- 💬 Ask me about **python**
+- ⭐ Ask me about **Python**
 
-- 📫 How to reach me **burakcanaltunoglu@gmail.com**
+- ⭐ How to reach me **burakcanaltunoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
