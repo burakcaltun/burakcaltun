@@ -4,6 +4,12 @@
 
 I'm a Computer Engineer with hands-on experience in **cybersecurity, vulnerability management, network security, and enterprise IT/OT environments**.
 
+<a href="https://tryhackme.com/p/0xBC4">
+  <img src="https://tryhackme.com/img/thm_logo.png" alt="TryHackMe" width="100"/>
+  <br>
+  <b>0xBC4</b>
+</a>
+
 🔐 **Cybersecurity**
 - Vulnerability Management & Remediation / Qualys VMDR
 - CVSS & CVE analysis
