@@ -5,7 +5,7 @@
 I'm a Computer Engineer with hands-on experience in **cybersecurity, vulnerability management, network security, and enterprise IT/OT environments**.
 
 🔐 **Cybersecurity**
-- Vulnerability Management & Remediation — Qualys VMDR
+- Vulnerability Management & Remediation / Qualys VMDR
 - CVSS & CVE analysis
 - Windows security & patch management
 - SSL/TLS security and hardening
@@ -25,8 +25,5 @@ I'm a Computer Engineer with hands-on experience in **cybersecurity, vulnerabili
 📚 **Currently Learning**
 - SOC & Blue Team
 - Incident Response
-- Active Directory Security
 - Offensive Security
 - Threat Detection
-
-🚀 I use this GitHub to document my **cybersecurity labs, write-ups, security projects, and technical research**.
