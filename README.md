@@ -5,7 +5,7 @@
 I'm a Computer Engineer with hands-on experience in **cybersecurity, vulnerability management, network security, and enterprise IT/OT environments**.
 
 <p align="center">
-  <a href="https://tryhackme.com/p/0xBC4">
+  <a href="https://tryhackme.com/p/0xbc4">
     <img src="https://img.shields.io/badge/TryHackMe-0xBC4-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe - 0xBC4"/>
   </a>
 </p>
